@@ -1,2 +1,2 @@
-# prenom et nom dans le form de woocommerce
+# Prénom et nom dans le form de woocommerce
 # À mettre dans le function.php
